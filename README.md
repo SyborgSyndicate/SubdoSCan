@@ -1,1 +1,6 @@
-# SubdoSCan
+# SubdoSCan 
+
+TOOL INI ADA LIMIT NYA Y BRO
+
+
+
